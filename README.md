@@ -1,2 +1,2 @@
 # Hang-Man
-Apache license 2.0
+Single player "Hangman" game with the function of account creation, with which you can play with your custom words. There is a system with forgotten password.
